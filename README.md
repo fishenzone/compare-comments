@@ -11,5 +11,3 @@
 - Сравнение версий документа
 - Формирование отчёта с учётом замечаний
 </details>
-
-[![Смотреть демо-видео](https://github.com/fishenzone/compare-comments/raw/main/video_preview.png)](https://github.com/fishenzone/compare-comments/raw/main/video__.mp4)
